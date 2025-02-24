@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sauham
 - 👀 I’m interested in finding internships and jobs based on web dev and ML models
-- 🌱 I’m currently learning backend web development in node, express and react
+- 🌱 I’m currently learning RAG< Langchain and Gen AI for better Jobs and Internships
 - 💞️ I’m looking to collaborate on AI/ML and Web development projects
 - 📫 How to reach me mail me at sauhamv28@gmail.com
 
