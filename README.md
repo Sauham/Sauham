@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Sauham
-- 👀 I’m interested in finding internships and jobs based on web dev and ML models
-- 🌱 I’m currently learning RAG,Computer Vision, NLP, Langchain and Gen AI for better Jobs and Internships
-- 💞️ I’m looking to collaborate on AI/ML and Web development projects
-- 📫 How to reach me mail me at sauhamv28@gmail.com
+**👋 Hi, I’m Sauham Vyas**
+
+- 🔬 AI/ML Engineer with 2+ years experience in LLM fine-tuning, deployment, and prompt engineering  
+- 🤖 Skilled in LangChain, LangGraph, RAG pipelines, and TinyML—built chatbots, recommendation engines, and computer vision models  
+- 🚀 Currently driving AI at Horeca Store (Dubai) and crafting robust AI workflows at AI Certs  
+- 🎓 B.Tech in Artificial Intelligence (Sage University Indore) with hands-on experience in collaborative filtering, NLP, CNNs, and model optimization  
+- 🌐 Explore my projects:
+  - [AI Research Agent](https://github.com/Sauham/AI-Research-agent-using-LangGraph)  
+  - [Document RAG Chatbot](https://github.com/Sauham/Document-RAG-Chat-Application)  
+  - [AI Recommendation System](https://github.com/Sauham/AI-Recommendation-System)  
+- 📫 Reach me at: sauhamv28@gmail.com  
 
 <!---
 Sauham/Sauham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
